@@ -1,0 +1,334 @@
+{
+  "heading": "Sci_Asses_G9M10NZ",
+  "topics": [
+   {
+  "heading": "Assessment",
+  "questions": [
+    {
+      "questionNo": 1,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Why does liquid in a thermometer rise when placed in hot water?<br><img width='40%' src='./assests/images/1.png'>",
+      "options": [
+        { "text": "The liquid molecules become larger." },
+        { "text": "The particles in the thermometer contract." },
+        { "text": "The heat pulls the liquid upward." },
+        { "text": "The particles absorb heat and move faster, increasing the space between them, causing the liquid to expand upward." }
+      ],
+      "answer": 3
+    },
+    {
+      "questionNo": 2,
+      "section": "mcq",
+      "marks": 1,
+      "question": "A solution that contains the maximum amount of solute that can dissolve at a given temperature is:",
+      "options": [
+        { "text": "Concentrated solution" },
+        { "text": "Dilute solution" },
+        { "text": "Saturated solution" },
+        { "text": "Supersaturated solution" }
+      ],
+      "answer": 2
+    },
+    {
+      "questionNo": 3,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Photosynthesis occurs in which part of a leaf:",
+      "options": [
+        { "text": "Chloroplast" },
+        { "text": "Chlorophyll" },
+        { "text": "Plastid" },
+        { "text": "Ribosomes" }
+      ],
+      "answer": 0
+    },
+    {
+      "questionNo": 4,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Which of the following are the main components of the human circulatory system?",
+      "options": [
+        { "text": "The heart" },
+        { "text": "Blood vessels" },
+        { "text": "Blood" },
+        { "text": "All of the above" }
+      ],
+      "answer": 3
+    },
+    {
+      "questionNo": 5,
+      "section": "mcq",
+      "marks": 1,
+      "question": "______ are the smallest units of life.",
+      "input": [""],
+      "answer": "Cells"
+    },
+    {
+      "questionNo": 6,
+      "section": "mcq",
+      "marks": 1,
+      "question": "The variable that is measured or observed during an investigation is called the ______ variable.",
+      "input": [""],
+      "answer": "dependent"
+    },
+    {
+      "questionNo": 7,
+      "section": "mcq",
+      "marks": 1,
+      "question": "The independent variable is plotted on the ______ axis, while the dependent variable is plotted on the ______ axis.<br><i>Hint: vertical (x), horizontal (x), vertical (y), horizontal (y)</i><br><img width='40%' src='./assests/images/2.png'>",
+      "input": ["", ""],
+      "answer": [
+        "horizontal (x)",
+        "vertical (y)"
+      ]
+    },
+    {
+      "questionNo": 8,
+      "section": "mcq",
+      "marks": 1,
+      "question": "The movement of water vapour out of a plant through the stomata is known as ______.",
+      "input": [""],
+      "answer": "transpiration"
+    },
+    {
+      "questionNo": 9,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Identify the subatomic particles represented by the symbols below.<br><img width='40%' src='./assests/images/3.png'><br>(p<sup>+</sup>) = ______<br>(e<sup>-</sup>) = ______<br>(n<sup>0</sup>) = ______",
+      "input": ["", "", ""],
+      "answer": [
+        "Proton",
+        "Electron",
+        "Neutron"
+      ]
+    },
+    {
+      "questionNo": 10,
+      "section": "mcq",
+      "marks": 1,
+      "question": "A neap tide occurs when the gravitational pull of the Moon and the Sun act at ______° to each other to produce a ______ tidal range than usual.<br><i>Hint: greater, smaller, 90, 180</i><br><img width='40%' src='./assests/images/4.png'>",
+      "input": ["", ""],
+      "answer": [
+        "90",
+        "smaller"
+      ]
+    },
+    {
+      "questionNo": 11,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Compounds always show the same properties as their elements.",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 12,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Air is an example of a heterogeneous mixture.",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 1
+    },
+    {
+      "questionNo": 13,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Energy transformations occur in almost all everyday activities.",
+      "options": [
+        { "text": "True" },
+        { "text": "False" }
+      ],
+      "answer": 0
+    },
+    {
+      "questionNo": 14,
+      "section": "mcq",
+      "marks": 1,
+      "question": "Match each stage of food processing in Column A with the correct description in Column B.<br><b>Column A</b><br>1. Ingestion<br>2. Digestion<br>3. Absorption<br>4. Egestion<br><b>Column B</b><br>A. Removal of undigested food from the body<br>B. Taking food into the body (mouth)<br>C. Breaking food into smaller, soluble substances<br>D. Movement of digested nutrients into the bloodstream",
+      "options": [
+        { "text": "1-B, 2-C, 3-D, 4-A" },
+        { "text": "1-C, 2-D, 3-B, 4-A" },
+        { "text": "1-D, 2-C, 3-A, 4-B" },
+        { "text": "1-B, 2-C, 3-A, 4-D" }
+      ],
+      "answer": 0
+    },
+    {
+      "questionNo": 1,
+      "section": "short",
+      "marks": 3,
+      "question": "What is a solution?<br><img width='40%' src='./assests/images/5.png'><br>Describe it in terms of solute and solvent.",
+      "text_area": "",
+      "answer": ["<b>Solution:</b> A solution is a type of homogeneous mixture in which a solid, liquid, or gas (solute) is completely dissolved in a liquid (solvent).<br>This means that a solution is made up of two components: A Solvent and A Solute.<br><br><b>Solvent:</b> The component of the solution that dissolves other substances is called the solvent. It is usually present in a larger amount and is most commonly in the liquid state.<br>For example, in salt water, water is the solvent.<br><br><b>Solute:</b> The component of the solution that dissolves in the solvent is called the solute. It is usually present in a smaller amount and can be solid, liquid, or gas.<br>For example, in salt water, salt is the solute."]
+    },
+    {
+      "questionNo": 2,
+      "section": "short",
+      "marks": 3,
+      "question": "Differentiate between homogenous and heterogeneous mixtures with suitable examples.<br><img width='40%' src='./assests/images/6.png'>",
+      "type": "table",
+      "table": {
+        "columns": ["Homogenous mixture", "Heterogenous mixture"],
+        "rows": [
+          ["", ""],
+          ["", ""],
+          ["", ""],
+          ["", ""],
+          ["", ""]
+        ]
+      },
+      "answer": [
+        ["They have uniform composition throughout.", "They have non-uniform composition."],
+        ["Their components are not visibly distinguishable.", "Their components are visibly distinguishable."],
+        ["They cannot be separated by simple physical methods.", "They can be separated by simple physical methods."],
+        ["Their particle size is about 10<sup>-9</sup> m, even less than 1 nm.", "Their particle size is greater than 1 nm."],
+        ["Examples include salt in water etc.", "Examples include soil and wood etc."]
+      ]
+    },
+    {
+      "questionNo": 3,
+      "section": "short",
+      "marks": 3,
+      "question": "Differentiate between the functions of xylem and phloem tissues in plants.",
+      "type": "table",
+      "table": {
+        "columns": ["Xylem", "Phloem"],
+        "rows": [
+          ["", ""],
+          ["", ""]
+        ]
+      },
+      "answer": [
+        ["Transports water and dissolved minerals from the roots to the leaves.", "Transports dissolved glucose (food) produced during photosynthesis to other parts of the plant."],
+        ["Movement is mainly upward.", "Movement can occur in both upward and downward directions."]
+      ]
+    },
+    {
+      "questionNo": 4,
+      "section": "short",
+      "marks": 3,
+      "question": "State the Law of Conservation of Energy and describe how energy changes from one form to another in everyday situations.",
+      "text_area": "",
+      "answer": ["<b>Law of Conservation of Energy:</b><br>The Law of Conservation of Energy states that energy cannot be created or destroyed. It can only be transferred or changed from one form to another.<br><br>Energy changes from one form to another in many everyday situations:<br>In a fan, electrical energy changes into kinetic energy when the blades spin."]
+    },
+    {
+      "questionNo": 5,
+      "section": "short",
+      "marks": 3,
+      "question": "A cereal meal contains 18 g carbohydrates, 4 g fats, and 6 g proteins. Calculate the total energy released if all nutrients are completely used by the body.<br><b>Given:</b><br>Carbohydrates = ______ g<br>Fats = ______ g<br>Proteins = ______ g<br><b>Energy values:</b><br>Carbohydrates = ______ kcal/g<br>Fats = ______ kcal/g<br>Proteins = ______ kcal/g<br><b>Calculation:</b><br>Energy from carbohydrates =<br>______ x ______ = ______ kcal<br>Energy from fats =<br>______ x ______ = ______ kcal<br>Energy from proteins =<br>______ x ______ = ______ kcal<br>So, Total energy = ______ + ______ + ______<br><b>Final answer:</b><br>The total energy released by the cereal meal is ______ kcal.",
+      "input": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+      "answer": [
+        "18",
+        "4",
+        "6",
+        "4",
+        "9",
+        "4",
+        "18",
+        "4",
+        "72",
+        "4",
+        "9",
+        "36",
+        "6",
+        "4",
+        "24",
+        "72",
+        "36",
+        "24",
+        "132"
+      ]
+    },
+    {
+      "questionNo": 6,
+      "section": "short",
+      "marks": 3,
+      "question": "Describe how red blood cells and white blood cells differ in their structure and roles in the human body.",
+      "type": "table",
+      "table": {
+        "columns": ["Red Blood Cells (RBCs)", "White Blood Cells (WBCs)"],
+        "rows": [
+          ["", ""],
+          ["", ""],
+          ["", ""],
+          ["", ""],
+          ["", ""]
+        ]
+      },
+      "answer": [
+        ["Make up about 99% of the cellular components of blood.", "Make up less than 1% of the cellular components of blood."],
+        ["Have a biconcave disc shape.", "Have different shapes depending on their type."],
+        ["Do not have a nucleus when mature.", "Have a nucleus."],
+        ["Contain haemoglobin, which binds to oxygen.", "Do not contain haemoglobin."],
+        ["Their main role is to transport oxygen from the lungs to cells and some carbon dioxide back towards the lungs.", "Their main role is to protect the body from pathogens and foreign substances."]
+      ]
+    },
+    {
+      "questionNo": 7,
+      "section": "short",
+      "marks": 3,
+      "question": "For each investigation below, identify the independent variable, dependent variable, and two controlled variables.<br>1. A student investigates how changing the volume of 90℃ water affects the time taken for the water to cool to 20℃.<br>Independent variable: ______<br>Dependent variable: ______<br>Controlled variables: ______<br>2. A student investigates how changing the amount of water given to a plant affects its growth.<br>Independent variable: ______<br>Dependent variable: ______<br>Controlled variables: ______<br>3. A student investigates how the temperature of water affects the time taken for a tablet to dissolve.<br>Independent variable: ______<br>Dependent variable: ______<br>Controlled variables: ______",
+      "input": ["", "", "", "", "", "", "", "", ""],
+      "answer": [
+        "Volume of water.",
+        "Time taken for the water to cool from 90℃ to 20℃.",
+        "Initial temperature of the water (90℃) and size of container.",
+        "Amount of water given to the plant.",
+        "Growth of the plant.",
+        "Type of plant and amount of sunlight received.",
+        "Temperature of the water.",
+        "Time taken for the tablet to dissolve.",
+        "Volume of water and size of the tablet."
+      ]
+    },
+    {
+      "questionNo": 8,
+      "section": "short",
+      "marks": 3,
+      "question": "Draw a clear, well-labelled diagram to represent the structure of an atom.<br>In your diagram, show the nucleus, protons, neutrons and electrons.<br><i>Note: Use Bohr’s model of the atom to represent the structure for simplicity.</i>",
+      "text_area": "",
+      "answer": [""]
+    },
+    {
+      "questionNo": 1,
+      "marks": 5,
+      "section": "long",
+      "question": "Describe the four main stages of food processing in the human digestive system:<br>1. Ingestion<br>2. Digestion<br>3. Absorption<br>4. Egestion<br>Explain what happens during each stage.",
+      "text_area": "",
+      "answer": ["<b>Ingestion:</b> Ingestion is the process of taking food into the body through the mouth.<br>Food is chewed by the teeth and mixed with saliva, forming a moist, softened mass called a bolus. The bolus is then swallowed and moves into the oesophagus.<br><br><b>Digestion:</b> Digestion is the process of breaking food into smaller molecules so they can be absorbed.<br>In the stomach, muscular contractions churn and mix the food, which is mechanical digestion. At the same time, gastric juice containing hydrochloric acid and pepsin carries out chemical digestion. The food is eventually changed into a thick, semi-liquid mixture called chyme.<br><br><b>Absorption:</b> Absorption is the process by which digested nutrients pass from the small intestine into the bloodstream.<br>The small intestine has millions of villi, with smaller microvilli, which greatly increase the surface area for absorption. Blood capillaries in the villi then transport the absorbed nutrients around the body.<br><br><b>Egestion:</b> Egestion is the process of removing undigested food from the body.<br>Undigested material moves into the large intestine, where most of the remaining water is absorbed. The material becomes more solid and forms faeces, which are stored in the rectum and eventually removed through the anus."]
+    },
+    {
+      "questionNo": 2,
+      "marks": 5,
+      "section": "long",
+      "question": "Explain how the digestive, respiratory and circulatory systems work together to provide energy for the body.<br>In your answer, describe how nutrients and oxygen are delivered to cells for cellular respiration.",
+      "text_area": "",
+      "answer": ["The digestive, respiratory and circulatory systems work together to provide cells with the substances needed for cellular respiration and energy release.<br>The <b>digestive system</b> breaks down food into nutrients such as glucose. In the small intestine, villi absorb the digested nutrients into the bloodstream. The circulatory system then transports these nutrients around the body to the cells.<br>The <b>respiratory system</b> brings oxygen into the body. Oxygen reaches the alveoli in the lungs, where it diffuses into the blood. Red blood cells use haemoglobin to bind to oxygen and transport it to cells throughout the body.<br>The <b>circulatory system</b> delivers the glucose and oxygen to body cells.<br>Inside the cells, the mitochondria use these substances during aerobic cellular respiration to release usable energy.<br>Carbon dioxide and water are produced as waste products. Carbon dioxide is transported in the blood back to the lungs and removed during exhalation.<br>Therefore, the digestive system provides glucose, the respiratory system provides oxygen, and the circulatory system transports both to cells where they are used in cellular respiration to release energy."]
+    },
+    {
+      "questionNo": 3,
+      "marks": 5,
+      "section": "long",
+      "question": "Define each of the following terms and give one example of each:<br>1. Accurate<br>2. Inaccurate<br>3. Reliable<br>4. Unreliable",
+      "text_area": "",
+      "answer": ["<b>Accurate:</b><br>A measurement is accurate when it is close to the true or accepted value.<br>Example: If the accepted temperature is 25.0℃ and a student measures 25.1℃, the measurement is accurate.<br><br><b>Inaccurate:</b><br>A measurement is inaccurate when it is far from the true or accepted value.<br>Example: If the accepted temperature is 25.0℃ and a student measures 19.0℃, the measurement is inaccurate.<br><br><b>Reliable:</b><br>Measurements are reliable when repeated measurements are consistent or close to each other.<br>Example: A student records 19.9℃, 20.0℃ and 20.1℃. These measurements are reliable because they are very close to each other.<br><br><b>Unreliable:</b><br>Measurements are unreliable when repeated measurements are inconsistent or very different from each other.<br>Example: A student records 18℃, 25℃ and 21℃ when measuring the same temperature. These results are unreliable because they are not consistent."]
+    },
+    {
+      "questionNo": 4,
+      "marks": 5,
+      "section": "long",
+      "question": "The diagram below shows the human heart.<br><img width='40%' src='./assests/images/8.png'><br>Identify the parts labelled A, B, C, D, E, F, G, H, I, and J and write their correct names.<br>A: ______<br>B: ______<br>C: ______<br>D: ______<br>E: ______<br>F: ______<br>G: ______<br>H: ______<br>I: ______<br>J: ______<br><i>Hint: Right atrium, Left atrium, Right ventricle, Left ventricle, Tricapsid valve, Bicapsid valve, Vena cava, Aorta, Pulmonary vein, Pulmonary artery</i>",
+      "input": ["", "", "", "", "", "", "", "", "", ""],
+      "answer": ["Aorta", "Pulmonary artery", "Pulmonary vein", "Left atrium", "Bicapsid valve", "Left ventricle", "Right ventricle", "Tricapsid valve", "Right atrium", "Vena cava"]
+    }
+  ]
+}
+  ]
+}
